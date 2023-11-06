@@ -1,0 +1,5 @@
+Các giải thuật phù hợp với từng loại tiến trình:
+System process: SJF
+INteractive process: RR
+Batch process: SJF
+Student process : FCFS
